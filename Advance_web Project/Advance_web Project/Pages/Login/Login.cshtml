@@ -1,0 +1,20 @@
+﻿@page
+@model Advance_web_Project.Pages.Login.LoginModel
+@{
+    ViewData["Title"] = "Login";
+    Layout = "_LoginLayout"; // Correct reference to the layout
+}
+
+<div class="box-container">
+    <div class="box-elements">
+        <h1 class="title">LOGIN</h1>
+
+        <label for="user">Username</label>
+        <input type="text" id="user" placeholder="Enter Username..." />
+
+        <label for="pass">Password</label>
+        <input type="password" id="pass" placeholder="Enter Password..." />
+
+        <button class="btnlogin">LOGIN</button>
+    </div>
+</div>

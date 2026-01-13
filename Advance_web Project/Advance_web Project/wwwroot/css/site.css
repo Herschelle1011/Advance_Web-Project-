@@ -1,0 +1,44 @@
+* {
+    color: white;
+}
+
+input{
+    border-radius: 25px;
+    margin: 20px;
+    outline: none;
+    border:none;
+    padding: 10px;
+    
+}
+
+
+.box-container {
+    background-color: red;
+    width: 400px;
+    height: 100vh;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+
+.box-elements{
+    background-color: black;
+    display: flex;
+    width: 300px;
+    align-items: left;
+    flex-direction: column;
+}
+.title{
+    text-align: center;
+
+}
+
+.btnlogin{
+    width: 100%;
+    border-radius: 30px;
+    padding: 10px;
+    color: black;
+    
+}

@@ -1,0 +1,33 @@
+C:\Users\ACT-STUDENT\source\repos\Advance_Web-Project-\Advance_web Project\Advance_web Project\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ACT-STUDENT\source\repos\Advance_Web-Project-\Advance_web Project\Advance_web Project\bin\Debug\net8.0\appsettings.json
+C:\Users\ACT-STUDENT\source\repos\Advance_Web-Project-\Advance_web Project\Advance_web Project\bin\Debug\net8.0\Advance_web Project.staticwebassets.runtime.json
+C:\Users\ACT-STUDENT\source\repos\Advance_Web-Project-\Advance_web Project\Advance_web Project\bin\Debug\net8.0\Advance_web Project.staticwebassets.endpoints.json
+C:\Users\ACT-STUDENT\source\repos\Advance_Web-Project-\Advance_web Project\Advance_web Project\bin\Debug\net8.0\Advance_web Project.exe
+C:\Users\ACT-STUDENT\source\repos\Advance_Web-Project-\Advance_web Project\Advance_web Project\bin\Debug\net8.0\Advance_web Project.deps.json
+C:\Users\ACT-STUDENT\source\repos\Advance_Web-Project-\Advance_web Project\Advance_web Project\bin\Debug\net8.0\Advance_web Project.runtimeconfig.json
+C:\Users\ACT-STUDENT\source\repos\Advance_Web-Project-\Advance_web Project\Advance_web Project\bin\Debug\net8.0\Advance_web Project.dll
+C:\Users\ACT-STUDENT\source\repos\Advance_Web-Project-\Advance_web Project\Advance_web Project\bin\Debug\net8.0\Advance_web Project.pdb
+C:\Users\ACT-STUDENT\source\repos\Advance_Web-Project-\Advance_web Project\Advance_web Project\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\ACT-STUDENT\source\repos\Advance_Web-Project-\Advance_web Project\Advance_web Project\obj\Debug\net8.0\Advance_web Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACT-STUDENT\source\repos\Advance_Web-Project-\Advance_web Project\Advance_web Project\obj\Debug\net8.0\Advance_web Project.AssemblyInfoInputs.cache
+C:\Users\ACT-STUDENT\source\repos\Advance_Web-Project-\Advance_web Project\Advance_web Project\obj\Debug\net8.0\Advance_web Project.AssemblyInfo.cs
+C:\Users\ACT-STUDENT\source\repos\Advance_Web-Project-\Advance_web Project\Advance_web Project\obj\Debug\net8.0\Advance_web Project.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\source\repos\Advance_Web-Project-\Advance_web Project\Advance_web Project\obj\Debug\net8.0\Advance_web Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ACT-STUDENT\source\repos\Advance_Web-Project-\Advance_web Project\Advance_web Project\obj\Debug\net8.0\Advance_web Project.RazorAssemblyInfo.cache
+C:\Users\ACT-STUDENT\source\repos\Advance_Web-Project-\Advance_web Project\Advance_web Project\obj\Debug\net8.0\Advance_web Project.RazorAssemblyInfo.cs
+C:\Users\ACT-STUDENT\source\repos\Advance_Web-Project-\Advance_web Project\Advance_web Project\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\ACT-STUDENT\source\repos\Advance_Web-Project-\Advance_web Project\Advance_web Project\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\ACT-STUDENT\source\repos\Advance_Web-Project-\Advance_web Project\Advance_web Project\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\ACT-STUDENT\source\repos\Advance_Web-Project-\Advance_web Project\Advance_web Project\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ACT-STUDENT\source\repos\Advance_Web-Project-\Advance_web Project\Advance_web Project\obj\Debug\net8.0\scopedcss\bundle\Advance_web Project.styles.css
+C:\Users\ACT-STUDENT\source\repos\Advance_Web-Project-\Advance_web Project\Advance_web Project\obj\Debug\net8.0\scopedcss\projectbundle\Advance_web Project.bundle.scp.css
+C:\Users\ACT-STUDENT\source\repos\Advance_Web-Project-\Advance_web Project\Advance_web Project\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ACT-STUDENT\source\repos\Advance_Web-Project-\Advance_web Project\Advance_web Project\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\ACT-STUDENT\source\repos\Advance_Web-Project-\Advance_web Project\Advance_web Project\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ACT-STUDENT\source\repos\Advance_Web-Project-\Advance_web Project\Advance_web Project\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ACT-STUDENT\source\repos\Advance_Web-Project-\Advance_web Project\Advance_web Project\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ACT-STUDENT\source\repos\Advance_Web-Project-\Advance_web Project\Advance_web Project\obj\Debug\net8.0\Advance_web Project.dll
+C:\Users\ACT-STUDENT\source\repos\Advance_Web-Project-\Advance_web Project\Advance_web Project\obj\Debug\net8.0\refint\Advance_web Project.dll
+C:\Users\ACT-STUDENT\source\repos\Advance_Web-Project-\Advance_web Project\Advance_web Project\obj\Debug\net8.0\Advance_web Project.pdb
+C:\Users\ACT-STUDENT\source\repos\Advance_Web-Project-\Advance_web Project\Advance_web Project\obj\Debug\net8.0\Advance_web Project.genruntimeconfig.cache
+C:\Users\ACT-STUDENT\source\repos\Advance_Web-Project-\Advance_web Project\Advance_web Project\obj\Debug\net8.0\ref\Advance_web Project.dll
