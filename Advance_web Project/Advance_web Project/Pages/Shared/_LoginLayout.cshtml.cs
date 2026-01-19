@@ -3,10 +3,12 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace Advance_web_Project.Pages.Shared
 {
-    public class forLoginModel : PageModel
+    public class _LoginLayoutModel : PageModel
     {
+
         public void OnGet()
         {
+          
         }
     }
 }
