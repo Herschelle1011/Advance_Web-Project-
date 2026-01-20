@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Advance_web Project.csproj": {}
+    "C:\\Users\\ACT-STUDENT\\Source\\Repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Advance_web Project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Advance_web Project.csproj": {
+    "C:\\Users\\ACT-STUDENT\\Source\\Repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Advance_web Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Advance_web Project.csproj",
+        "projectUniqueName": "C:\\Users\\ACT-STUDENT\\Source\\Repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Advance_web Project.csproj",
         "projectName": "Advance_web Project",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Advance_web Project.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\obj\\",
+        "projectPath": "C:\\Users\\ACT-STUDENT\\Source\\Repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Advance_web Project.csproj",
+        "packagesPath": "C:\\Users\\ACT-STUDENT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ACT-STUDENT\\Source\\Repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ACT-STUDENT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -85,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

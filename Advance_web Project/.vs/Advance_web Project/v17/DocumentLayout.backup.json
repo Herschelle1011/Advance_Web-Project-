@@ -1,73 +1,73 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\",
+  "WorkspaceRootPath": "C:\\Users\\ACT-STUDENT\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\admin\\source\\repos\\advance_web-project-\\advance_web project\\advance_web project\\wwwroot\\css\\logincss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\wwwroot\\css\\logincss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\admin\\source\\repos\\advance_web-project-\\advance_web project\\advance_web project\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\admin\\source\\repos\\advance_web-project-\\advance_web project\\advance_web project\\pages\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\pages\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\admin\\source\\repos\\advance_web-project-\\advance_web project\\advance_web project\\pages\\shared\\_loginlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\pages\\shared\\_loginlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\admin\\source\\repos\\advance_web-project-\\advance_web project\\advance_web project\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\admin\\source\\repos\\advance_web-project-\\advance_web project\\advance_web project\\controller\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\controller\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\admin\\source\\repos\\advance_web-project-\\advance_web project\\advance_web project\\pages\\login\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\act-student\\source\\repos\\advance_web-project-\\advance_web project\\advance_web project\\pages\\login\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\pages\\login\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\admin\\source\\repos\\advance_web-project-\\advance_web project\\advance_web project\\wwwroot\\bg.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\wwwroot\\bg.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\act-student\\source\\repos\\advance_web-project-\\advance_web project\\advance_web project\\pages\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\pages\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\admin\\source\\repos\\advance_web-project-\\advance_web project\\advance_web project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\admin\\source\\repos\\advance_web-project-\\advance_web project\\advance_web project\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\act-student\\source\\repos\\advance_web-project-\\advance_web project\\advance_web project\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\admin\\source\\repos\\advance_web-project-\\advance_web project\\advance_web project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\admin\\source\\repos\\advance_web-project-\\advance_web project\\advance_web project\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\act-student\\source\\repos\\advance_web-project-\\advance_web project\\advance_web project\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\admin\\source\\repos\\advance_web-project-\\advance_web project\\advance_web project\\pages\\register\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\pages\\register\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\admin\\source\\repos\\advance_web-project-\\advance_web project\\advance_web project\\pages\\shared\\_loginlayout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\pages\\shared\\_loginlayout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\admin\\source\\repos\\advance_web-project-\\advance_web project\\advance_web project\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\act-student\\source\\repos\\advance_web-project-\\advance_web project\\advance_web project\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\admin\\source\\repos\\advance_web-project-\\advance_web project\\advance_web project\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\act-student\\source\\repos\\advance_web-project-\\advance_web project\\advance_web project\\wwwroot\\css\\logincss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\wwwroot\\css\\logincss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\act-student\\source\\repos\\advance_web-project-\\advance_web project\\advance_web project\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\act-student\\source\\repos\\advance_web-project-\\advance_web project\\advance_web project\\pages\\shared\\_loginlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\pages\\shared\\_loginlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\act-student\\source\\repos\\advance_web-project-\\advance_web project\\advance_web project\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\act-student\\source\\repos\\advance_web-project-\\advance_web project\\advance_web project\\controller\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\controller\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\act-student\\source\\repos\\advance_web-project-\\advance_web project\\advance_web project\\wwwroot\\bg.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\wwwroot\\bg.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\act-student\\source\\repos\\advance_web-project-\\advance_web project\\advance_web project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\act-student\\source\\repos\\advance_web-project-\\advance_web project\\advance_web project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\act-student\\source\\repos\\advance_web-project-\\advance_web project\\advance_web project\\pages\\register\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\pages\\register\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\act-student\\source\\repos\\advance_web-project-\\advance_web project\\advance_web project\\pages\\shared\\_loginlayout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\pages\\shared\\_loginlayout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\act-student\\source\\repos\\advance_web-project-\\advance_web project\\advance_web project\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\admin\\source\\repos\\advance_web-project-\\advance_web project\\advance_web project\\migrations\\20260119122535_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\act-student\\source\\repos\\advance_web-project-\\advance_web project\\advance_web project\\migrations\\20260119122535_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\migrations\\20260119122535_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -78,8 +78,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 10,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -98,48 +102,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Pages\\Login\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACT-STUDENT\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Pages\\Login\\Login.cshtml",
               "RelativeDocumentMoniker": "Advance_web Project\\Pages\\Login\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Pages\\Login\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ACT-STUDENT\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Pages\\Login\\Login.cshtml",
               "RelativeToolTip": "Advance_web Project\\Pages\\Login\\Login.cshtml",
-              "ViewState": "AgIAABcAAAAAAAAAAAAkwCYAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-18T14:22:38.822Z"
+              "WhenOpened": "2026-01-18T14:22:38.822Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "LoginCSS.css",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\wwwroot\\css\\LoginCSS.css",
+              "DocumentMoniker": "C:\\Users\\ACT-STUDENT\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\wwwroot\\css\\LoginCSS.css",
               "RelativeDocumentMoniker": "Advance_web Project\\wwwroot\\css\\LoginCSS.css",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\wwwroot\\css\\LoginCSS.css",
+              "ToolTip": "C:\\Users\\ACT-STUDENT\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\wwwroot\\css\\LoginCSS.css",
               "RelativeToolTip": "Advance_web Project\\wwwroot\\css\\LoginCSS.css",
-              "ViewState": "AgIAAJMAAAAAAAAAAAAkwKAAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAkwKUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2026-01-18T15:01:45.729Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_LoginLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Pages\\Shared\\_LoginLayout.cshtml",
-              "RelativeDocumentMoniker": "Advance_web Project\\Pages\\Shared\\_LoginLayout.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Pages\\Shared\\_LoginLayout.cshtml",
-              "RelativeToolTip": "Advance_web Project\\Pages\\Shared\\_LoginLayout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-18T14:24:29.565Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Pages\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACT-STUDENT\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Advance_web Project\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ACT-STUDENT\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Advance_web Project\\Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -147,11 +140,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\Users\\ACT-STUDENT\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "Advance_web Project\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ACT-STUDENT\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\wwwroot\\css\\site.css",
               "RelativeToolTip": "Advance_web Project\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -159,11 +152,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Controller\\LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\ACT-STUDENT\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Controller\\LoginController.cs",
               "RelativeDocumentMoniker": "Advance_web Project\\Controller\\LoginController.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Controller\\LoginController.cs",
+              "ToolTip": "C:\\Users\\ACT-STUDENT\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Controller\\LoginController.cs",
               "RelativeToolTip": "Advance_web Project\\Controller\\LoginController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -171,35 +164,75 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Pages\\Login\\Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ACT-STUDENT\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Pages\\Login\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "Advance_web Project\\Pages\\Login\\Login.cshtml.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Pages\\Login\\Login.cshtml.cs",
-              "RelativeToolTip": "Advance_web Project\\Pages\\Login\\Login.cshtml.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAiwCoAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ACT-STUDENT\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Pages\\Login\\Login.cshtml.cs*",
+              "RelativeToolTip": "Advance_web Project\\Pages\\Login\\Login.cshtml.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T14:51:05.807Z"
+              "WhenOpened": "2026-01-18T14:51:05.807Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACT-STUDENT\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Advance_web Project\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ACT-STUDENT\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Advance_web Project\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T20:21:03.864Z"
+              "WhenOpened": "2026-01-18T20:21:03.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\ACT-STUDENT\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Data\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Advance_web Project\\Data\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\ACT-STUDENT\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Data\\AppDbContextFactory.cs",
+              "RelativeToolTip": "Advance_web Project\\Data\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T12:22:56.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ACT-STUDENT\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Advance_web Project\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ACT-STUDENT\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Models\\User.cs",
+              "RelativeToolTip": "Advance_web Project\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T20:09:41.913Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "_LoginLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACT-STUDENT\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Pages\\Shared\\_LoginLayout.cshtml",
+              "RelativeDocumentMoniker": "Advance_web Project\\Pages\\Shared\\_LoginLayout.cshtml",
+              "ToolTip": "C:\\Users\\ACT-STUDENT\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Pages\\Shared\\_LoginLayout.cshtml",
+              "RelativeToolTip": "Advance_web Project\\Pages\\Shared\\_LoginLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-18T14:24:29.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "bg.jpg - Bitmap [3000x2000, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\wwwroot\\bg.jpg",
+              "DocumentMoniker": "C:\\Users\\ACT-STUDENT\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\wwwroot\\bg.jpg",
               "RelativeDocumentMoniker": "Advance_web Project\\wwwroot\\bg.jpg",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\wwwroot\\bg.jpg - Bitmap [3000x2000, 24 bit, JPG]",
+              "ToolTip": "C:\\Users\\ACT-STUDENT\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\wwwroot\\bg.jpg - Bitmap [3000x2000, 24 bit, JPG]",
               "RelativeToolTip": "Advance_web Project\\wwwroot\\bg.jpg - Bitmap [3000x2000, 24 bit, JPG]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
               "WhenOpened": "2026-01-19T15:44:51.802Z",
@@ -209,9 +242,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "20260119122535_Initial Create.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Migrations\\20260119122535_Initial Create.cs",
+              "DocumentMoniker": "C:\\Users\\ACT-STUDENT\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Migrations\\20260119122535_Initial Create.cs",
               "RelativeDocumentMoniker": "Advance_web Project\\Migrations\\20260119122535_Initial Create.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Migrations\\20260119122535_Initial Create.cs",
+              "ToolTip": "C:\\Users\\ACT-STUDENT\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Migrations\\20260119122535_Initial Create.cs",
               "RelativeToolTip": "Advance_web Project\\Migrations\\20260119122535_Initial Create.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -219,11 +252,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ACT-STUDENT\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\appsettings.json",
               "RelativeDocumentMoniker": "Advance_web Project\\appsettings.json",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\appsettings.json",
+              "ToolTip": "C:\\Users\\ACT-STUDENT\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\appsettings.json",
               "RelativeToolTip": "Advance_web Project\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -231,35 +264,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AppDbContextFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Data\\AppDbContextFactory.cs",
-              "RelativeDocumentMoniker": "Advance_web Project\\Data\\AppDbContextFactory.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Data\\AppDbContextFactory.cs",
-              "RelativeToolTip": "Advance_web Project\\Data\\AppDbContextFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T12:22:56.695Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Advance_web Project\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Models\\User.cs",
-              "RelativeToolTip": "Advance_web Project\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T20:09:41.913Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "_LoginLayout.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Pages\\Shared\\_LoginLayout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ACT-STUDENT\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Pages\\Shared\\_LoginLayout.cshtml.cs",
               "RelativeDocumentMoniker": "Advance_web Project\\Pages\\Shared\\_LoginLayout.cshtml.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Pages\\Shared\\_LoginLayout.cshtml.cs",
+              "ToolTip": "C:\\Users\\ACT-STUDENT\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Pages\\Shared\\_LoginLayout.cshtml.cs",
               "RelativeToolTip": "Advance_web Project\\Pages\\Shared\\_LoginLayout.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -267,11 +276,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACT-STUDENT\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Program.cs",
               "RelativeDocumentMoniker": "Advance_web Project\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Program.cs",
+              "ToolTip": "C:\\Users\\ACT-STUDENT\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Program.cs",
               "RelativeToolTip": "Advance_web Project\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -281,9 +290,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Pages\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACT-STUDENT\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Advance_web Project\\Pages\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ACT-STUDENT\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Pages\\_ViewImports.cshtml",
               "RelativeToolTip": "Advance_web Project\\Pages\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -291,11 +300,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "register.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Pages\\Register\\register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACT-STUDENT\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Pages\\Register\\register.cshtml",
               "RelativeDocumentMoniker": "Advance_web Project\\Pages\\Register\\register.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Pages\\Register\\register.cshtml",
+              "ToolTip": "C:\\Users\\ACT-STUDENT\\source\\repos\\Advance_Web-Project-\\Advance_web Project\\Advance_web Project\\Pages\\Register\\register.cshtml",
               "RelativeToolTip": "Advance_web Project\\Pages\\Register\\register.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
