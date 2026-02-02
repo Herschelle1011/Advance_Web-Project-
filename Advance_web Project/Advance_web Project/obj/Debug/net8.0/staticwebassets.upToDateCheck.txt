@@ -1,4 +1,6 @@
 wwwroot\background.jpg
+wwwroot\backgroundcontroller.png
+wwwroot\backkkground.png
 wwwroot\bg.jpg
 wwwroot\bgg.jpg
 wwwroot\css\LoginCSS.css
@@ -62,5 +64,3 @@ wwwroot\lib\jquery\dist\jquery.js
 wwwroot\lib\jquery\dist\jquery.min.js
 wwwroot\lib\jquery\dist\jquery.min.map
 wwwroot\lib\jquery\LICENSE.txt
-wwwroot\backgroundcontroller.png
-wwwroot\backkkground.png

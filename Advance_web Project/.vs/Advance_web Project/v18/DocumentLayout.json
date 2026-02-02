@@ -1,0 +1,443 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\herschelle\\source\\repos\\login\u0026register_database\\advance_web project\\advance_web project\\pages\\shared\\partiallogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\pages\\shared\\partiallogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\herschelle\\source\\repos\\login\u0026register_database\\advance_web project\\advance_web project\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\herschelle\\source\\repos\\login\u0026register_database\\advance_web project\\advance_web project\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\herschelle\\source\\repos\\login\u0026register_database\\advance_web project\\advance_web project\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\herschelle\\source\\repos\\login\u0026register_database\\advance_web project\\advance_web project\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\herschelle\\source\\repos\\login\u0026register_database\\advance_web project\\advance_web project\\migrations\\20260202202830_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\migrations\\20260202202830_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\herschelle\\source\\repos\\login\u0026register_database\\advance_web project\\advance_web project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\herschelle\\source\\repos\\login\u0026register_database\\advance_web project\\advance_web project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\herschelle\\source\\repos\\login\u0026register_database\\advance_web project\\advance_web project\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\herschelle\\source\\repos\\login\u0026register_database\\advance_web project\\advance_web project\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\herschelle\\source\\repos\\login\u0026register_database\\advance_web project\\advance_web project\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\herschelle\\source\\repos\\login\u0026register_database\\advance_web project\\advance_web project\\pages\\shared\\_loginlayout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\pages\\shared\\_loginlayout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\herschelle\\source\\repos\\login\u0026register_database\\advance_web project\\advance_web project\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\herschelle\\source\\repos\\login\u0026register_database\\advance_web project\\advance_web project\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\herschelle\\source\\repos\\login\u0026register_database\\advance_web project\\advance_web project\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\herschelle\\source\\repos\\login\u0026register_database\\advance_web project\\advance_web project\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\herschelle\\source\\repos\\login\u0026register_database\\advance_web project\\advance_web project\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\herschelle\\source\\repos\\login\u0026register_database\\advance_web project\\advance_web project\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\herschelle\\source\\repos\\login\u0026register_database\\advance_web project\\advance_web project\\wwwroot\\css\\logincss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\wwwroot\\css\\logincss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\herschelle\\source\\repos\\login\u0026register_database\\advance_web project\\advance_web project\\pages\\shared\\_loginlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\pages\\shared\\_loginlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\herschelle\\source\\repos\\login\u0026register_database\\advance_web project\\advance_web project\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\herschelle\\source\\repos\\login\u0026register_database\\advance_web project\\advance_web project\\pages\\register\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\pages\\register\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\herschelle\\source\\repos\\login\u0026register_database\\advance_web project\\advance_web project\\wwwroot\\bg.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\wwwroot\\bg.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|c:\\users\\herschelle\\source\\repos\\login\u0026register_database\\advance_web project\\advance_web project\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0245B28E-B713-401A-8ADD-5EF1F294C52C}|Advance_web Project\\Advance_web Project.csproj|solutionrelative:advance_web project\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PartialLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\Pages\\Shared\\PartialLogin.cshtml",
+              "RelativeDocumentMoniker": "Advance_web Project\\Pages\\Shared\\PartialLogin.cshtml",
+              "ToolTip": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\Pages\\Shared\\PartialLogin.cshtml",
+              "RelativeToolTip": "Advance_web Project\\Pages\\Shared\\PartialLogin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-02T20:38:51.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Advance_web Project\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "Advance_web Project\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T20:29:32.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Advance_web Project\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Advance_web Project\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-02T20:10:53.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Advance_web Project\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Advance_web Project\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-02T20:10:53.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Advance_web Project\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "Advance_web Project\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T20:31:57.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260202202830_init.cs",
+              "DocumentMoniker": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\Migrations\\20260202202830_init.cs",
+              "RelativeDocumentMoniker": "Advance_web Project\\Migrations\\20260202202830_init.cs",
+              "ToolTip": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\Migrations\\20260202202830_init.cs",
+              "RelativeToolTip": "Advance_web Project\\Migrations\\20260202202830_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T20:28:30.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Advance_web Project\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Advance_web Project\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T20:14:37.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\Program.cs",
+              "RelativeDocumentMoniker": "Advance_web Project\\Program.cs",
+              "ToolTip": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\Program.cs",
+              "RelativeToolTip": "Advance_web Project\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwCIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T20:10:53.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\appsettings.json",
+              "RelativeDocumentMoniker": "Advance_web Project\\appsettings.json",
+              "ToolTip": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\appsettings.json",
+              "RelativeToolTip": "Advance_web Project\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-02T20:10:53.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Advance_web Project\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\Models\\Users.cs",
+              "RelativeToolTip": "Advance_web Project\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T20:12:45.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Advance_web Project\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Advance_web Project\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T20:10:53.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_LoginLayout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\Pages\\Shared\\_LoginLayout.cshtml.cs",
+              "RelativeDocumentMoniker": "Advance_web Project\\Pages\\Shared\\_LoginLayout.cshtml.cs",
+              "ToolTip": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\Pages\\Shared\\_LoginLayout.cshtml.cs",
+              "RelativeToolTip": "Advance_web Project\\Pages\\Shared\\_LoginLayout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T20:10:53.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "Advance_web Project\\Pages\\Error.cshtml.cs",
+              "ToolTip": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "Advance_web Project\\Pages\\Error.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T20:10:53.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Advance_web Project\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "Advance_web Project\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-02T20:10:53.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "Advance_web Project\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "Advance_web Project\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T20:10:53.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Advance_web Project\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Advance_web Project\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAIBJwB8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T20:10:53.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Advance_web Project\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Advance_web Project\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAIBJwCEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-02T20:10:53.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Advance_web Project\\Pages\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Advance_web Project\\Pages\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-02T20:10:53.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginCSS.css",
+              "DocumentMoniker": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\wwwroot\\css\\LoginCSS.css",
+              "RelativeDocumentMoniker": "Advance_web Project\\wwwroot\\css\\LoginCSS.css",
+              "ToolTip": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\wwwroot\\css\\LoginCSS.css",
+              "RelativeToolTip": "Advance_web Project\\wwwroot\\css\\LoginCSS.css",
+              "ViewState": "AgIAAIwAAAAAAAAAAIBJwJwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-02T20:10:53.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_LoginLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\Pages\\Shared\\_LoginLayout.cshtml",
+              "RelativeDocumentMoniker": "Advance_web Project\\Pages\\Shared\\_LoginLayout.cshtml",
+              "ToolTip": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\Pages\\Shared\\_LoginLayout.cshtml",
+              "RelativeToolTip": "Advance_web Project\\Pages\\Shared\\_LoginLayout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-02T20:10:53.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Advance_web Project\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Advance_web Project\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-02T20:10:53.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\Pages\\Register\\register.cshtml",
+              "RelativeDocumentMoniker": "Advance_web Project\\Pages\\Register\\register.cshtml",
+              "ToolTip": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\Pages\\Register\\register.cshtml",
+              "RelativeToolTip": "Advance_web Project\\Pages\\Register\\register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-02T20:10:53.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "bg.jpg - Bitmap [3000x2000, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\wwwroot\\bg.jpg",
+              "RelativeDocumentMoniker": "Advance_web Project\\wwwroot\\bg.jpg",
+              "ToolTip": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\wwwroot\\bg.jpg - Bitmap [3000x2000, 24 bit, JPG]",
+              "RelativeToolTip": "Advance_web Project\\wwwroot\\bg.jpg - Bitmap [3000x2000, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-02-02T20:10:53.365Z",
+              "EditorCaption": " - Bitmap [3000x2000, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Advance_web Project\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Herschelle\\source\\repos\\Login\u0026Register_Database\\Advance_web Project\\Advance_web Project\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Advance_web Project\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-02T20:10:53.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
